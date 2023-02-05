@@ -1,2 +1,6 @@
 # firmware-psu
-Firmware updates for the serial readers for power supplys.
+> **Firmware for analog to serial converters in power supplies**
+
+This project is made with platformio, so it can be easily compiled for other boards.
+
+>We plan on adding support for web APIs via esp32 or similar in soon
