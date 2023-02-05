@@ -1,5 +1,5 @@
 # firmware-psu
-> **Firmware for analog to serial converters in power supplies**
+> **Firmware for analog to serial converters in power supplies with arduinos (DIY project)**
 
 This project is made with platformio, so it can be easily compiled for other boards.
 
